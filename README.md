@@ -1,6 +1,6 @@
 ## AWS CloudFront + S3 deployment example
 
-This TypeScript boilerplate was deployed using the AWS S3 connected tp AWS ClodFront.
+This TypeScript boilerplate was deployed using the AWS S3 connected tp AWS CloudFront.
 
 ## Authors
 
